@@ -1,7 +1,7 @@
 {
   "name": "sponge-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "sponge-syntax is a theme designed with the brand guidelines of elearning company Sponge UK.",
   "repository": "https://github.com/jamieshepherd/sponge-syntax",
   "license": "MIT",
